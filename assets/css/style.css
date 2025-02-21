@@ -3,20 +3,20 @@ body {
 }
 
 .hero {
-    background: linear-gradient(to right, #007bff, #00c6ff);
+    background: linear-gradient(to right, #080608, #636164);
     color: white;
     padding: 80px 0;
-    margin: -20px;
+    margin: -15px;
 }
 
 .hero img {
-    width: 150px;
+    width: 130px;
     border-radius: 50%;
-    
 }
 
 .section-title {
     margin-top: 50px;
+    display: flex;
 }
 
 .contact {
@@ -30,7 +30,13 @@ footer {
     text-align: center;
     padding: 15px 0;
 }
+.imagem{
+    border-radius: 10px;
+}
+.btn{
+    margin: 10px;
 
+}
 .navbar {
     position: fixed;
     top: 0;

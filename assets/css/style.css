@@ -40,6 +40,10 @@ footer {
 .texto{
     margin: 20px;
 }
+.texto2{
+    margin: 20px;
+    padding-bottom: 20px;
+}
 .navbar {
     position: fixed;
     top: 0;
